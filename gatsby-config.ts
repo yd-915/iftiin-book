@@ -4,7 +4,7 @@ const config: GatsbyConfig = {
   siteMetadata: {
     title: "Iftiin-Book: Monetize your literary works",
     shortTitle: "Mash Lightning Book",
-    author: "Mike Dedys",
+    author: "IFTIIN Technologies",
     description:
       "With Iftiin-Book, you can monetize your literary works, whether it be books, essays or research papers with Bitcoin through the lightning network. Leveraging the Mash SDK, Iftiin-Book makes it easy for potential readers to 'boost' you sats in support of your work or to pay for full-access. Because it's Bitcoin, all funds goes to you and through Lightning, faster than ever.",
     siteUrl: "https://mashlightningbookstarter.gatsbyjs.io/",
@@ -70,7 +70,7 @@ const config: GatsbyConfig = {
         name: "Lorem Ipsum",
         short_name: "Lorem",
         start_url: "/",
-        background_color: "#ffffff",
+        background_color: "#3c3211",
         display: "minimal-ui",
         icon: "src/images/favicon.png",
       },
