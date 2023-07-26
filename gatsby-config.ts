@@ -17,15 +17,15 @@ const config: GatsbyConfig = {
       chapters: [
         {
           number: 1,
-          title: "Lorem Ipsum",
+          title: "Iftiin is great.",
         },
         {
           number: 2,
-          title: "Why Lorem Ipsum",
+          title: "Why is Iftiin great?",
         },
         {
           number: 3,
-          title: "Where does it come from?",
+          title: "Because why not?",
         },
       ],
     },
@@ -72,7 +72,7 @@ const config: GatsbyConfig = {
         start_url: "/",
         background_color: "#3c3211",
         display: "minimal-ui",
-        icon: "src/images/favicon.png",
+        icon: "src/images/book.png",
       },
     },
     // Handles producing images in multiple sizes and formats to keep site performance high
