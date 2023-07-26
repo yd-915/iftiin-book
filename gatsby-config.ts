@@ -2,11 +2,11 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: "Mash Lightning Book: Quick Starter Template",
+    title: "Iftiin-Book: Monetize your literary works",
     shortTitle: "Mash Lightning Book",
     author: "Mike Dedys",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "With Iftiin-Book, you can monetize your literary works, whether it be books, essays or research papers with Bitcoin through the lightning network. Leveraging the Mash SDK, Iftiin-Book makes it easy for potential readers to 'boost' you sats in support of your work or to pay for full-access. Because it's Bitcoin, all funds goes to you and through Lightning, faster than ever.",
     siteUrl: "https://mashlightningbookstarter.gatsbyjs.io/",
     social: {
       twitter: "getmash",
